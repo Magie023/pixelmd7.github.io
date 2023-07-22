@@ -1,13 +1,13 @@
 // ==UserScript== 
-// @name         r/placeDE Template // BRANCH: md7 allience :heart: 
+// @name         r/place Template - MD7 Template Edition 
 // @namespace    http://tampermonkey.net/ 
 // @version      1 
 // @description  try to take over the canvas! Thanks to the devs from placeDE :heart: 
 // @author       placeDE Devs 
 // @match        https://garlic-bread.reddit.com/embed* 
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com   
-// @updateURL    https://github.com/Magie023/pixelmd7.github.io/
-// @downloadURL  https://github.com/Magie023/pixelmd7.github.io
+// @updateURL    https://github.com/Magie023/pixelmd7.github.io/blob/main/rplace_md7.user.js
+// @downloadURL  https://github.com/Magie023/pixelmd7.github.io/blob/main/rplace_md7.user.js
 // ==/UserScript==
 
 let url = "https://raw.githubusercontent.com/Magie023/pixelmd7.github.io/main/allience_md7.png"
