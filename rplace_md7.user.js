@@ -1,7 +1,7 @@
 // ==UserScript== 
 // @name         r/place Template - MD7 Template Edition 
 // @namespace    http://tampermonkey.net/ 
-// @version      1 
+// @version      1.1 
 // @description  try to take over the canvas! Thanks to the devs from placeDE :heart: 
 // @author       placeDE Devs - MD7 Edition: derLesh, Magie023
 // @match        https://garlic-bread.reddit.com/embed* 
