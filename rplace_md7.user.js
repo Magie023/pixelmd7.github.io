@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/ 
 // @version      1 
 // @description  try to take over the canvas! Thanks to the devs from placeDE :heart: 
-// @author       placeDE Devs - MD7 Edition: derlesh, Magie023
+// @author       placeDE Devs - MD7 Edition: derLesh, Magie023
 // @match        https://garlic-bread.reddit.com/embed* 
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com   
 // @updateURL    https://github.com/Magie023/pixelmd7.github.io/raw/main/rplace_md7.user.js
