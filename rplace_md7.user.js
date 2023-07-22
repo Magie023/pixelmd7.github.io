@@ -10,7 +10,7 @@
 // @downloadURL  https://github.com/Magie023/pixelmd7.github.io/raw/main/rplace_md7.user.js
 // ==/UserScript==
 
-let url = "https://raw.githubusercontent.com/Magie023/pixelmd7.github.io/main/allience_md7.png"
+let url = "https://raw.githubusercontent.com/Magie023/pixelmd7.github.io/main/allience_md7_22_07_11_30.png"
 
 if (window.top !== window.self) {
     window.addEventListener('load', () => {
