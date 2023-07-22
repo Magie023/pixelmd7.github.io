@@ -6,8 +6,8 @@
 // @author       placeDE Devs 
 // @match        https://garlic-bread.reddit.com/embed* 
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com   
-// @updateURL    https://github.com/Magie023/pixelmd7.github.io/blob/main/rplace_md7.user.js
-// @downloadURL  https://github.com/Magie023/pixelmd7.github.io/blob/main/rplace_md7.user.js
+// @updateURL    https://github.com/Magie023/pixelmd7.github.io/raw/main/rplace_md7.user.js
+// @downloadURL  https://github.com/Magie023/pixelmd7.github.io/raw/main/rplace_md7.user.js
 // ==/UserScript==
 
 let url = "https://raw.githubusercontent.com/Magie023/pixelmd7.github.io/main/allience_md7.png"
